@@ -2,7 +2,7 @@ const CONFIG = {
     // General
     name: 'kie',
     openInNewTab: false,
-    title: 'kie-home',
+    title: 'Speed Dial',
 
     // Clock
     twelveHourFormat: false,
