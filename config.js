@@ -19,18 +19,14 @@ const CONFIG = {
             name: 'youtube',
             link: 'https://youtube.com/',
         },
+        
         {
             id: '2',
-            name: 'twitter',
-            link: 'https://twitter.com/',
-        },
-        {
-            id: '3',
             name: 'twitch',
             link: 'https://www.twitch.tv/',
         },
         {
-            id: '4',
+            id: '3',
             name: 'gmail',
             link: 'https://mail.google.com/',
         },
@@ -43,23 +39,13 @@ const CONFIG = {
         },
         {
             id: '2',
-            name: 'reddit',
-            link: 'https://www.reddit.com/',
+            name: 'stack overflow',
+            link: 'https://stackoverflow.com',
         },
         {
             id: '3',
-            name: 'dev.to',
-            link: 'https://dev.to/',
-        },
-        {
-            id: '4',
-            name: 'spotify',
-            link: 'https://spotify.com/',
-        },
-        {
-            id: '5',
-            name: 'discord',
-            link: 'https://discord.com/',
+            name: 'w3',
+            link: 'https://www.w3schools.com',
         },
     ]
 }
